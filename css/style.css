@@ -1,0 +1,14 @@
+body{
+	margin: 0px;
+	background-color: #FEC;
+}
+h1{
+	font-family: Pacifico;
+}
+span{
+	font-style: italic;
+	font-family:  cursive;
+}
+.jumbotron{
+	background-color: #EEC;
+}
